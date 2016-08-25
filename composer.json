@@ -1,0 +1,19 @@
+{
+    "name": "oxsys/oxws-website",
+    "type": "project",
+    "description": "Website reutilizável do Oxws, modifique livremente os módulos para adequar ao seu projeto.",
+    "keywords": ["website","framework","oxws"],
+    "homepage": "http://oxws.oxsys.com.br",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Décio Dias",
+            "email": "ddiasweb@gmail.com",
+            "homepage": "http://oxsys.com.br"
+        }
+    ],
+    "require": {
+        "php": "^5.3 || ~7",
+        "oxsys/oxws": "^1.0"
+    }
+}
