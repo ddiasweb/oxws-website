@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "698567216a80a233db3b657fef747897",
+    "content-hash": "66f9b4475947d32bd894b204ac64f6bf",
+    "packages": [
+        {
+            "name": "oxsys/oxws",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ddiasweb/oxws.git",
+                "reference": "d16591ef47a7387ac7980afc4256cc622c460e42"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ddiasweb/oxws/zipball/d16591ef47a7387ac7980afc4256cc622c460e42",
+                "reference": "d16591ef47a7387ac7980afc4256cc622c460e42",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.3 || ~7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oxsys\\Oxws\\": "lib/Oxsys/Oxws/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Décio Dias",
+                    "email": "ddiasweb@gmail.com",
+                    "homepage": "http://oxsys.com.br"
+                }
+            ],
+            "description": "Oxws, sigla para Oxsys Websites, é um framework que possibilita criar Websites e uma forma simples, rápida e eficiente.",
+            "homepage": "http://oxws.oxsys.com.br",
+            "keywords": [
+                "framework",
+                "oxws",
+                "websites"
+            ],
+            "time": "2016-08-25 20:23:34"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^5.3 || ~7"
+    },
+    "platform-dev": []
+}
